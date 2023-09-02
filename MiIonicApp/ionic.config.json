@@ -1,0 +1,7 @@
+{
+  "name": "MiIonicApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
